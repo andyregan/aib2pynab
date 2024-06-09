@@ -1,0 +1,14 @@
+Posted Account, Posted Transactions Date, Description1, Description2, Description3, Debit Amount, Credit Amount,Balance,Posted Currency,Transaction Type,Local Currency Amount,Local Currency
+"123456 - 98765432","05/06/2024","D/D TV","ACCREF","","7.00",,"14960.61",EUR,"Direct Debit"," 7.00",EUR
+"123456 - 98765432","05/06/2024","VDC-BING","","","19.29",,"14967.61",EUR,"Debit"," 19.29",EUR
+"123456 - 98765432","05/06/2024","VDC-DR FLOP","","","41.00",,"14986.9",EUR,"Debit"," 41.00",EUR
+"123456 - 98765432","05/06/2024","VDC-TESCO STORES","","","23.80",,"15027.9",EUR,"Debit"," 23.80",EUR
+"123456 - 98765432","06/06/2024","VDC-PHARMACY","","",,"34.99","15051.7",EUR,"Credit"," 34.99",EUR
+"123456 - 98765432","06/06/2024","VDP-CORNER SHOP","","","5.55",,"15086.69",EUR,"Debit"," 5.55",EUR
+"123456 - 98765432","06/06/2024","VDC-CAFE","","","23.00",,"15092.24",EUR,"Debit"," 23.00",EUR
+"123456 - 98765432","07/06/2024","VDP-PARKING","","","15.75",,"15115.24",EUR,"Debit"," 15.75",EUR
+"123456 - 98765432","07/06/2024","VDP-SUBSTACK","","","28.00",,"15153.99",EUR,"Debit"," 28.00",EUR
+"123456 - 98765432","07/06/2024","D/D BANK HOME LOAN","ACCREF","","1000.99",,"15181.99",EUR,"Direct Debit"," 1000.99",EUR
+"123456 - 98765432","07/06/2024","VDC-PHARMACY","","","11.45",,"16182.98",EUR,"Debit"," 11.45",EUR
+"123456 - 98765432","07/06/2024","VDC-ALDI","","","77.18",,"16194.43",EUR,"Debit"," 77.18",EUR
+"123456 - 98765432","07/06/2024","VDC-CHARITY","","","100",,"16271.61",EUR,"Debit"," 100",EUR
